@@ -1,0 +1,39 @@
+1) How did viewing a diff between two versions help you spot the bug?
+
+	It is so easy to see the bug if you can compare a new and an old version of a file and check
+	where it is the mistage. 
+
+	to compare two files we use CF old_file new_file in the cmd
+
+2) How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	
+	you can esay jump to a previous version , to correct a bug.
+
+3) git diff conmit_one conmi_two,
+	
+	give you the different between two commits \
+
+4) What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+	the pros is that u decide when you can do it and it is easier to keep the conmmit actualize with all the necesary info, the cons is that you need to remen=mber to do those commit.
+
+5) Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	Because git is done to commit programming code while dropbox is not.
+
+6)How can you use the commands git log and git diff to view the history of files?
+	
+	git log show you all the commits of the file
+	git diff show you the different between two commits
+
+7)How might using version control make you more confident to make changes that could break something?
+
+	you can be sure that each change done, it will be posible to reverse.
+	git checkout number of commit, bring you to a previous version.
+
+8)Now that you have your workspace set up, what do you want to try using Git for?
+
+	i want to try to build my android app using gi, to solve easier the possible bugs that will appear.
+
+
+
