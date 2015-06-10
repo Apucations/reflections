@@ -1,4 +1,4 @@
-
+hi
 1)What happens when you initialize a repository? Why do you need to do it?
 
 	that a repository is created but it contents 0 commits, to create a repository you should use the comand git init
@@ -24,5 +24,24 @@
   git brach name
   	create a new brach named name
   git checkout name1
-  	change the branche to the brache named name1	
+  	change the branche to the brache named name1
+
+6)What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	when you create a new paralel version of your work as new language or some exeriments that yu are not sure how it will end.
+
+7)How do the diagrams help you visualize the branch structure?
+
+	the diagrams give you a visual idea about the estructure of the proyect itself.
+
+8)git merge branche1 branch2
+	combine both branches in 1
+  git branch -d namebranche
+	delete the branche named branchename, but not the commits, they are still reacheible by number of commit.
+
+9)What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	
+	the result is the combination of all the commits of both branches in only one.
+
+10)What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
