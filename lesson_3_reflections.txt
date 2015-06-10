@@ -8,8 +8,16 @@
   
 3)Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-  because not always you want to update what you have done in your pc.
+  because not always you want to update what you have done in your p
   
+
+4)Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+  clone make a copy from onlyne to pc or in pc pc
+  forks make a copy from onlyne to online
+  branches create a new pararalel work place
+  
+
 
 
   
