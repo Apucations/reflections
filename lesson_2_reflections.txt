@@ -19,5 +19,10 @@
 
 	you can compare what going on there and be sure that is only one logical change done since the last commit.
 
-5)
+5)git brach
+	show you all the braches in the proyect
+  git brach name
+  	create a new brach named name
+  git checkout name1
+  	change the branche to the brache named name1	
 
