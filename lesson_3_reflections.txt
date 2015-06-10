@@ -1,7 +1,15 @@
 1) adding new commits to the repository online, in github.
 
+
 2)When would you want to use a remote repository rather than keeping all your work local?
 
   when you are going to work with more people in a projyect.
+  
+  
+3)Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+  because not always you want to update what you have done in your pc.
+  
+
 
   
