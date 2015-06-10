@@ -1,0 +1,10 @@
+
+1)What happens when you initialize a repository? Why do you need to do it?
+
+	that a repository is created but it contents 0 commits, to create a repository you should use the comand git init
+	to add some files to the commit you should use the comand git add file
+
+2)How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	the stating area is some state between that can be use to chec what are we going to commit, and be sure that it is like we want to do it 
+
