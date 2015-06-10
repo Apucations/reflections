@@ -8,3 +8,16 @@
 
 	the stating area is some state between that can be use to chec what are we going to commit, and be sure that it is like we want to do it 
 
+3)git diif 
+	compare working directory & staging area
+  gif diff --staaged
+  	compare staging area & the last commit
+  git diff commit1 commit2
+    compare commit1 & commit2
+
+4)How can you use the staging area to make sure you have one commit per logical change?
+
+	you can compare what going on there and be sure that is only one logical change done since the last commit.
+
+5)
+
